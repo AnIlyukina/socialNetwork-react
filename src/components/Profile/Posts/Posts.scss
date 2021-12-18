@@ -1,0 +1,29 @@
+.posts{
+  padding: 20px;
+  max-width: 800px;
+  font-size: 20px;
+}
+
+.posts__input{
+  width: 100%;
+  height: 80px;
+  margin-top: 15px;
+  border: none;
+}
+
+.posts__new{
+  display: flex;
+  flex-direction: column;
+}
+
+.posts__button{
+  margin-top: 15px;
+  max-width: 120px;
+  width: 100%;
+  height: 30px;
+  align-self: flex-end;
+  border: none;
+  background-color: rgb(112, 104, 104);
+  color: white;
+}
+
