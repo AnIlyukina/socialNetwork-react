@@ -4,7 +4,7 @@ function Header(){
 
   return (
     <header className='header'>
-        <img className='header__logo' src='https://www.stickerhub.ru/cache/8/8/7/7/5/887756fe15c940d48b9453a219e5bfcccce492a0.png?v30'/>
+        <img className='header__logo' src='https://omdobro.ru/wp-content/uploads/2020/03/black-heart-png-21.png'/>
     </header>
   )
 }

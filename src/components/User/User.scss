@@ -1,0 +1,26 @@
+.user{
+  display: flex;
+  padding: 10px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.user__image{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.user__block{
+  margin-left: 50px;
+  max-width: 500px;
+}
+
+.user__name{
+  font-size: 30px;
+}
+
+.user__info{
+  font-size: 18px;
+  padding-top: 15px;
+}
