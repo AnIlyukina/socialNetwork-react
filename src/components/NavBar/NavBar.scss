@@ -11,4 +11,11 @@
   display: block;
   padding: 10px;
   text-decoration: none;
+  color: black;
+  transition: .5s ease;
 }
+
+.nav-bar__link:hover{
+  color: rgb(92, 47, 214);
+}
+
